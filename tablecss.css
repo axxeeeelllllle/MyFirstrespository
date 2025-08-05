@@ -1,0 +1,15 @@
+table{
+width: 100%/* Adjust the width as needed */
+border-collapse collapse;
+margin: auto;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Optional: for a subtle shadow effect */
+}
+table th, table td {
+    border: 1px solid black; /* Border for table cells */
+    padding: 8px; /* Padding for table cells */       
+    text-align: left; /* Align text to the left */
+    background-color: #f2f2f2; /* Light gray background for cells */
+    color: #333; /* Dark text color */
+    font-family: Arial, sans-serif; /* Font style for table text */
+    font-size: 14px; /* Font size for table text */
+}
