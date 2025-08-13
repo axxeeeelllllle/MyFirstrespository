@@ -1,2 +1,2 @@
 # MyFirstrespository
-this my idirokcjcn
+this my first repository I hope this will help other beginners like me
